@@ -1,6 +1,19 @@
 {
-  "daily_quote": "Heute ist genau der richtige Tag, um stolz auf dich zu sein.",
   "welcome_message": "Willkommen zurück, Mama!",
-  "show_breathing_feature": true,
-  "show_mood_tracker": true
+  "daily_quote": "Heute ist genau der richtige Tag, um stolz auf dich zu sein.",
+  "quotes": [
+    "Du bist stärker, als du denkst.",
+    "Heute ist genau der richtige Tag, um stolz auf dich zu sein.",
+    "Atem holen. Lächeln. Weitermachen.",
+    "Du machst das toll – auch wenn du’s nicht fühlst.",
+    "Pause machen ist Teil des Wegs.",
+    "Mama sein ist kein Sprint, sondern Liebe auf Dauer.",
+    "Sei heute sanft zu dir selbst."
+  ],
+  "features": {
+    "show_breathing": true,
+    "show_mood_tracker": true,
+    "show_reflection": false,
+    "show_journal": false
+  }
 }
