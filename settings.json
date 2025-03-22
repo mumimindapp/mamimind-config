@@ -1,5 +1,6 @@
 {
-  "daily_quote": "Du bist genug. Heute. Morgen. Immer.",
+  "daily_quote": "Heute ist genau der richtige Tag, um stolz auf dich zu sein.",
   "welcome_message": "Willkommen zurück, Mama!",
-  "show_breathing_feature": true
+  "show_breathing_feature": true,
+  "show_mood_tracker": true
 }
